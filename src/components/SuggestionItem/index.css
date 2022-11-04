@@ -1,0 +1,17 @@
+.arrow {
+  height: 25px;
+}
+
+.listItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.para {
+  width: 400px;
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 14px;
+}
